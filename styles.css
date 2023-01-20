@@ -4,7 +4,7 @@
 }
 .header {
     background: black;
-    width: 100%;
+    width: 95%;
     height: auto;
 }
 .menu {
@@ -91,6 +91,6 @@ span.years {
 }
 .footer {
     background-color: black;
-    max-width: 100%;
+    max-width: 95%;
     height: auto;
 }
