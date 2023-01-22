@@ -94,3 +94,8 @@ span.years {
     max-width: 95%;
     height: auto;
 }
+.tgtext {
+    color: white;
+    font-size: 22px;
+    margin-top: 6%;
+}
